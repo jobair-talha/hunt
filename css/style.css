@@ -1372,7 +1372,7 @@ nav ul li .active{
 }
 #market-part .item{
     border: 1px solid #cccccc;
-    margin-right: 30px;
+    margin: 1px 15px;
     padding: 40px 15px;
     transition: all linear .4s;
     -webkit-transition: all linear .4s;
